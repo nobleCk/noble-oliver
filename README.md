@@ -1,29 +1,14 @@
 # Hi, I'm Noble
 
-**Aspiring App Developer | Learning Flutter & Dart**
+I'm building products at the intersection of technology and the things I care about — starting with space and real estate.
 
-I'm currently on a journey to become a skilled Flutter Developerand build cross-platform mobile apps.
-Right now, I'm focused on learning, practicing, and sharing my progress as I grow.
+##
+**Starship Dispatch** is a platform for real-time updates on space exploration — tracking missions, Mars progress, and movement across agencies and companies like NASA and SpaceX. It's currently in production as I work toward validating and launching it.
 
+**DreamHaven African** is an early-stage real estate venture I'm quietly developing, aimed at reshaping how people engage with property across Africa.
 
-## What I'm Learning
-- Flutter & Dart basics
-- UI Layouts and Widgets
-- State Management
-- Firebase & API integration
-
-
-## My Learning Approach
-I believe in **learning by building**, so soon I'll start publishing:
-- Mini Flutter projects
-- UI practice challenges
-- Notes & insights from my learning journey
-
-
-## Coming Soon
-I'm working on my first small Flutter app - stay tuned!
-All projects will be open-souce so others can learn from my journey too.
-
+Alongside these, I run Noble Digital Solutions, where I build web and mobile products (Flutter, Next.js, Firebase, Supabase) for clients — work that keeps me sharp as an engineer and funds what I'm building.
+Based in Port Harcourt, Nigeria. Always open to conversations about space tech, proptech, or early-stage building.
 
 ## Connect with me
 - [LinkedIn] (https://www.linkedin.com/in/nobleoliver)
